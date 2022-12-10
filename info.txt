@@ -1,0 +1,15 @@
+[ID:ui_ramp_icons]
+[NUMERIC_VERSION:101]
+[DISPLAYED_VERSION:1.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.01]
+[AUTHOR:Beorn Blackclaw]
+[NAME:Alternate ramp icons]
+[DESCRIPTION:Replaces the ramp icons with something more discreet.]
+
+[STEAM_TITLE:Alternate ramp icons]
+[STEAM_TAG:mod]
+[STEAM_TAG:ui]
+[STEAM_CHANGELOG:Fixed the raws]
+
+[STEAM_FILE_ID:2899666228]

@@ -1,0 +1,8 @@
+tile_page_ui_ramp_icons
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:UI_RAMP_ICONS]
+	[FILE:images/ui_ramp_icons.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:32]
